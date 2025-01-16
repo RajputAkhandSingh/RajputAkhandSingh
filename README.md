@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Rajput_AkhandSingh%F0%9F%9A%A9%E2%9A%94%EF%B8%8F;Crafting+code+with+passion+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5)](https://git.io/typing-svg)
 ![logo](https://github.com/RajputAkhandSingh/RajputAkhandSingh/blob/main/akhand.png)
 ![repo](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Rajput_AkhandSingh🚩⚔️</h1>
